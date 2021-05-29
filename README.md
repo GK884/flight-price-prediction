@@ -24,10 +24,6 @@ deployed on heroku
 
 ![alt text](https://github.com/GK884/flight-price-prediction/blob/main/git%20picture/deptime.PNG)
 
-![alt text](https://github.com/GK884/flight-price-prediction/blob/main/git%20picture/f_nme%20count.PNG)
-
-![alt text](https://github.com/GK884/flight-price-prediction/blob/main/git%20picture/f_nme%20count.PNG)
-
 ![alt text](https://github.com/GK884/flight-price-prediction/blob/main/git%20picture/stop.PNG)
 
 ![alt text](https://github.com/GK884/flight-price-prediction/blob/main/git%20picture/pred.PNG)
